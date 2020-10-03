@@ -1,0 +1,58 @@
+.one{
+  color: #000000;
+  font-weight: bolder;
+  background-color: white;
+
+  margin-right: 50px;
+  margin-left: 50px;
+  padding-left: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+#two{
+  background-color: white;
+  margin-top: 50px;
+  margin-right: 50px;
+  margin-left: 50px;
+  padding-left: 50px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+
+}
+img{
+  border:9px solid grey;
+  float:left;
+}
+button{
+  text-align: center;
+  padding: 10px 20px;
+  COLOR:#00c0c7;
+  border: 3px solid #00c0c7;
+}
+#three{
+  background-color: white;
+  margin-top: 50px;
+  margin-right: 50px;
+  margin-left: 50px;
+  padding-left: 50px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+#four{
+  background-color: white;
+  margin-top: 50px;
+  margin-right: 50px;
+  margin-left: 50px;
+  padding-left: 50px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+#five{
+  background-color: white;
+  margin-top: 50px;
+  margin-right: 50px;
+  margin-left: 50px;
+  padding-left: 50px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
